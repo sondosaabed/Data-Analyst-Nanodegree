@@ -1,4 +1,6 @@
 # Data-Analyst-Nanodegree
+I got accepted in a full NanoDegree Scholarship (Second Cohort) from Palestine Launchpad with Google, in collaboration with Udacity and SPARK - with implementation partners Gateway, TAP, and Intersect Innovation Hub. In this repository I collect all the work and code that I have done through this scholarship, where I have started the learning journey since May-September-2024.
+
 In this nano-degree program advanced data wrangling skills that I obtain to work with messy, complex real-world datasets. Highly customized visualizations using the Matplotlib Python library. You can also check the program Syllabus within the repo. pdf file:
 
 ## Courses
