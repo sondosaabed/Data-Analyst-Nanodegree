@@ -8,3 +8,7 @@ These are the trhee courses that are taken:
 - **Introduction to Data Analysis with Pandas and Numpy:** https://github.com/sondosaabed/Introduction-to-Data-Analysis-with-Pandas-and-Numpy
 - **Advanced Data Wrangling:** https://github.com/sondosaabed/Advanced-Data-Wrangling
 - **Data Visualization with Matplotlib and Seaborn**: https://github.com/sondosaabed/Data-Visualization-with-Matplotlib-and-Seaborn
+
+## Projects
+- **NICS firearm background checks dataset investigation** https://github.com/sondosaabed/NICS-firearm-background-checks-investigation
+- 
