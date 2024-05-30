@@ -11,4 +11,4 @@ These are the trhee courses that are taken:
 
 ## Projects
 - **NICS firearm background checks dataset investigation** https://github.com/sondosaabed/NICS-firearm-background-checks-investigation
-- 
+- **Data wrangling project** https://github.com/sondosaabed/Advanced-Data-Wrangling-Project
