@@ -12,3 +12,4 @@ These are the trhee courses that are taken:
 ## Projects
 - **[NICS firearm background checks dataset investigation](https://github.com/sondosaabed/NICS-firearm-background-checks-investigation)**
 - **[Investigating Oil vs BigTech stock](https://github.com/sondosaabed/Oil-vs-BigTech-stock-investigation)**
+- **[Prosper Loan Analysis](https://github.com/sondosaabed/Prosper-Loan-Analysis)**
