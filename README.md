@@ -13,3 +13,6 @@ These are the trhee courses that are taken:
 - **[NICS firearm background checks dataset investigation](https://github.com/sondosaabed/NICS-firearm-background-checks-investigation)**
 - **[Investigating Oil vs BigTech stock](https://github.com/sondosaabed/Oil-vs-BigTech-stock-investigation)**
 - **[Prosper Loan Analysis](https://github.com/sondosaabed/Prosper-Loan-Analysis)**
+
+## Verified Certificate Of Nanodegree Program Completion
+![image](https://github.com/user-attachments/assets/08b50167-1be1-4660-9767-fca5a59d0d2f)
